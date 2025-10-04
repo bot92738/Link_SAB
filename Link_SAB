@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Join Brainrot Server</title>
+    <meta http-equiv="refresh" content="0;url=roblox://placeId=96342491571673&privateServerLinkCode=OnVoP7y3k9V_9sJbvmtuDyXT5VtzUEcTj2QBUTNiJCCFineRB2QAAA2">
+    <script>
+      setTimeout(() => {
+        window.location.href = "https://www.roblox.com/games/96342491571673?privateServerLinkCode=OnVoP7y3k9V_9sJbvmtuDyXT5VtzUEcTj2QBUTNiJCCFineRB2QAAA2";
+      }, 2000); // fallback if Roblox app doesn't open
+    </script>
+  </head>
+  <body>
+    <p>Joining Brainrot server…</p>
+  </body>
+</html>
